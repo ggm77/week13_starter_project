@@ -10,8 +10,8 @@ export default function App() {
       <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
-          <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
-          <h1>Build. Analyze. Deploy. Connect.</h1>
+          <p className="hero-kicker">오픈소스 스튜디오 / WEEK 13</p>
+          <h1>만들고. 분석하고. 배포하고. 연결하기.</h1>
           <p>
             One small React project for GitHub collaboration, component analysis,
             Vercel deployment and REST API integration.
